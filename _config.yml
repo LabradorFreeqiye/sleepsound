@@ -11,19 +11,19 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Whale VPN                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : PureConnect                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A Power & Safe & Free VPN.
+app_description                           : Your streamlined gateway to secure and unrestricted online access
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Assassin Studio                                
+your_name                                 : Pacific Team                                
 your_link                                 :            
 your_city                                 : Copenhagen                                
-email_address                             : assassinstudio45@gmail.com
+email_address                             : 
 facebook_username                         :                                           
 instagram_username                        :  
 twitter_username                          :   
@@ -36,16 +36,16 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : High speed, Multiple nodes
-    description                           : Enjoy lightning-fast speeds and connect to a vast network of nodes for optimal performance and versatility.
+  - title                                 : Enhanced Security
+    description                           : Military-grade Encryption- Ensures your online activities remain private and secure.
     fontawesome_icon_name                 : rocket
     
-  - title                                 : Security, Privacy, No logs
-    description                           : Safeguard your online activities, maintain complete privacy, and have peace of mind knowing that no logs are kept.
+  - title                                 : High-Speed Connection
+    description                           : Fast and Reliable- Enjoy seamless streaming and browsing with high-speed servers.
     fontawesome_icon_name                 : user-shield
 
-  - title                                 : Free, No time limits
-    description                           : Experience the freedom of a free VPN without any time restrictions, allowing you to stay protected and connected at all times.
+  - title                                 : User-Friendly Interface
+    description                           : Easy-to-Use- Simple and intuitive design for easy connection and protection.
     fontawesome_icon_name                 : mug-hot
 
   
