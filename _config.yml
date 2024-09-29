@@ -6,14 +6,14 @@ ios_app_id                                :                                 # Re
 ios_app_country                           :                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.pacific.pureconnect                                      
+playstore_link                            : https://play.google.com/store/apps/details?id=com.labradorfree.sleepsound.dreamify                                      
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : PureConnect                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Dreamify                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Your streamlined gateway to secure and unrestricted online access
+app_description                           : Sleep Sounds: White Noise
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,16 +36,16 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Enhanced Security
-    description                           : Military-grade Encryption- Ensures your online activities remain private and secure.
+  - title                                 : Mixe
+    description                           : Many sounds scence.
     fontawesome_icon_name                 : rocket
     
-  - title                                 : High-Speed Connection
-    description                           : Fast and Reliable- Enjoy seamless streaming and browsing with high-speed servers.
+  - title                                 : Sounds
+    description                           : Many sounds and control
     fontawesome_icon_name                 : user-shield
 
-  - title                                 : User-Friendly Interface
-    description                           : Easy-to-Use- Simple and intuitive design for easy connection and protection.
+  - title                                 : Timer
+    description                           : Sleep Timer and Sleep Reminder.
     fontawesome_icon_name                 : mug-hot
 
   
